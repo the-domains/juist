@@ -2,6 +2,7 @@ name: Juist
 favicon: null
 layout_spectrum: 0.7551898006349802
 typography_spectrum: 0.6335360722150654
+title: Juist
 cta:
   domain: null
   bucket: null
