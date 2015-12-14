@@ -1,7 +1,7 @@
 name: Juist
 favicon: null
 layout_spectrum: 0.7551898006349802
-typography_spectrum: 0.6335360722150654
+typography_spectrum: 0.73538
 title: Juist
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#00aae4'
+    - '#ffffff'
+    - '#55c6ed'
+    - '#ff0045'
+    - '#ff4477'
   brandStrength: 0.6980912401340902
   lightness: 0.36790315015241504
   saturation: 0.637733836658299
